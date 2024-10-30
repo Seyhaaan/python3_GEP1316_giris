@@ -1,6 +1,1 @@
-print("hello world") #Hello world 
-#Yorum
-
-"""
-yorum
-"""
+print("hello world")
